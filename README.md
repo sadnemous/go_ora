@@ -6,8 +6,10 @@ https://github.com/lucasjellema/go-oracle-database/tree/main
 
 Oracle: 
 ```bash
+    docker pull gvenzl/oracle-xe
     docker run -d -p 1521:1521 -e ORACLE_PASSWORD=oracle gvenzl/oracle-xe
 ```
+sqldeveloper:
 
 Table: https://www.mycompiler.io/view/IXp1OnToZGf
 ```sql
