@@ -1,0 +1,6 @@
+driver: oracle
+service: XE
+username: demo
+server: localhost
+port: 1521
+password: demo
