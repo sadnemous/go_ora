@@ -1,5 +1,8 @@
-Sources: https://blogs.oracle.com/developers/post/connecting-a-go-application-to-oracle-database
-    Source Code: https://github.com/lucasjellema/go-oracle-database/tree/main
+Sources: 
+```url
+https://blogs.oracle.com/developers/post/connecting-a-go-application-to-oracle-database
+https://github.com/lucasjellema/go-oracle-database/tree/main
+```
 
 Oracle: 
 ```bash
